@@ -9,7 +9,7 @@
 
 ![VerseBoard](https://i.postimg.cc/85Lr1Pvg/verseboard-1-hero.png)
 
-**Type in dots. Think in Bengali.**
+**Type in dots. Use VerseBoard.**
 
 VerseBoard is an open source Android keyboard by **Araf Studio**, built around the Nothing dot-matrix look. Bengali layouts (Avro, Jatiyo, Probhat), swipe typing, smart predictions, a personal dictionary, clipboard history and a colorful matte key theme, all in one clean dark interface.
 
@@ -84,16 +84,6 @@ Matte yellow, blue, red, white and dark keys, with every letter drawn in dot-mat
 One menu for everything: translator, clipboard, number row, one-hand mode, swipe, sound, themes, emoji, voice, text editing, floating keyboard, writing tools, resize, scan text, split keyboard and undo.
 
 ![More menu](https://i.postimg.cc/W1KDgJmC/verseboard-6-more.png)
-
----
-
-## Build from source
-
-```bash
-git clone https://github.com/arafstudio/verseboard.git
-cd verseboard
-./gradlew assembleRelease
-```
 
 ---
 
